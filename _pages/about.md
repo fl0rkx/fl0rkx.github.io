@@ -115,21 +115,6 @@ Creador de las siguientes herramientas:
 - [btcAnalyzer](https://github.com/s4vitar/btcAnalyzer) (Herramienta ideal para la inspección de transacciones en el servicio de exploración de bloques de Bitcoin)
 - [AD-AutomationLab](https://github.com/s4vitar/AD-AutomationLab) (Herramienta en PowerShell ideal para desplegar tu propio entorno AD vulnerable de forma automatizada)
 
-## Asistencias
-Asistente en los siguientes eventos de ciberseguridad:
-
-- Hackron 2017 (Canarias)
-- Hackron 2018 (Canarias)
-- SecAdmin 2018 (Sevilla)
-- Hackron 2019 (Canarias)
-- RootedCON 2019 (Madrid)
-- CICSOH 2019 (Costa Rica)
-- PwnedCR 2019 (Costa Rica)
-- Navaja Negra 2019 (Albacete)
-- h-c0n 2020 (Madrid)
-- RootedCON 2020 (Madrid)
-- DragonJar 2021 (México)
-- HBSCon 2021 (España)
 
 ## Otros
 
