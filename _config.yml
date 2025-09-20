@@ -15,14 +15,14 @@ remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-ES"
 title                    : "H4ckNet | Ciberseguridad y Hacking Ético"
 title_separator          : "-"
-name                     : "S4vitar"
+name                     : "Fl0rkx"
 description              : "Artículos sobre ciberseguridad, CTFs e investigaciones"
-url                      : "https://s4vitar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://fl0rkx.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "s4vitar/s4vitar.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "fl0rkx/fl0rkx.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -91,19 +91,19 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-# Analytics
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "UA-145129883-1"
-    anonymize_ip         : false # (default)
+# # Analytics
+# analytics:
+#   provider               : "google" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          : "UA-145129883-1"
+#     anonymize_ip         : false # (default)
 
 
 # Site Author
 author:
-  name             : "S4vitar"
+  name             : "Fl0rkx"
   avatar           : "/assets/images/avatar.png"
-  bio              : "CyberSecurity Analyst at ElevenPaths / OSCP / OSWP / eWPTxv2 / eJPT / eCPPTv2 / CPHE / CHEE"
+  bio              : "Hacker Ético / eJPTv2
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -112,23 +112,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "s4vitar"
+  github           : "fl0rkx"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "s4vitar" # (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         :  # (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "s4vitar"
+  twitter          : "
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://youtube.com/c/s4vitar"
+  youtube          : 
 
 
 # Reading Files
