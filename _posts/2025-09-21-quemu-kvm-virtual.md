@@ -50,7 +50,7 @@ Entre otras funciones.
 
 De forma muy resumida es un virtualizador con esteroides.
 
-# ¿Qué es KVM y cual es función?
+# ¿Qué es KVM y cuál es su función?
 
 KVM (siglas de Kernel-based Virtual Machine) es una tecnología de virtualización incluida en el núcleo de Linux. Permite convertir un sistema Linux en un hipervisor, es decir, en una plataforma capaz de crear y ejecutar máquinas virtuales (VMs) de manera eficiente y con alto rendimiento.
 
@@ -164,7 +164,7 @@ primusrun glxinfo | grep "OpenGL renderer"
 
 ```  
 
-Lo más probable es que nos salga un erro como este -->
+Lo más probable es que nos salga un error como este -->
 
 ```log
 primusrun glxinfo | grep "OpenGL renderer" primus: fatal: Bumblebee daemon reported: error: [XORG] (EE) Unable to locate/open config directory: "/etc/bumblebee/xorg.conf.d"
